@@ -27,3 +27,11 @@ typeof(69L)
 "Don't"
 typeof("Don't")
 typeof("Tonmoy")
+
+typeof(TRUE)
+typeof(T)
+TRUE == T
+F == T
+typeof(3+3i)
+TRUE == 1
+FALSE == 0
